@@ -18,6 +18,7 @@
 	"description": "Template for Chrome extensions.",
 	"browser_action": {
 		"default_title": "Tooltip text",
+		"default_icon": "img/icon-19-default.png",
 		"default_popup": "popup.html"
 	},
 	"content_scripts": [
